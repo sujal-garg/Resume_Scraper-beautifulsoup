@@ -1,1 +1,1 @@
-# Resume_Scraper
+# This Resume Scraper is built using Beautiful Soup 
